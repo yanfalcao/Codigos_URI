@@ -1,5 +1,5 @@
 /*QUESTAO
-	Leia um valor inteiro, que È o tempo de duraÁ„o em segundos de um determinado evento em uma f·brica,
+	Leia um valor inteiro, que √© o tempo de dura√ß√£o em segundos de um determinado evento em uma f√°brica,
 	e informe-o expresso no formato horas:minutos:segundos.
 */
 
