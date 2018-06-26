@@ -1,7 +1,7 @@
 /*QUESTAO
-	Leia um valor inteiro. A seguir, calcule o menor n˙mero de notas possÌveis (cÈdulas) no qual o valor pode ser decomposto.
-	As notas consideradas s„o de 100, 50, 20, 10, 5, 2 e 1.
-	A seguir mostre o valor lido e a relaÁ„o de notas necess·rias.
+	Leia um valor inteiro. A seguir, calcule o menor n√∫mero de notas poss√≠veis (c√©dulas) no qual o valor pode ser decomposto.
+	As notas consideradas s√£o de 100, 50, 20, 10, 5, 2 e 1.
+	A seguir mostre o valor lido e a rela√ß√£o de notas necess√°rias.
 */
 
 #include<stdio.h>
