@@ -1,6 +1,6 @@
 /*QUESTAO 
-	Faça um programa que leia três valores e apresente o maior dos três valores
-	lidos seguido da mensagem “eh o maior”. Utilize a fórmula	
+	FaÃ§a um programa que leia trÃªs valores e apresente o maior dos trÃªs valores
+	lidos seguido da mensagem â€œeh o maiorâ€. Utilize a fÃ³rmula	
 */
 
 #include<stdio.h>
