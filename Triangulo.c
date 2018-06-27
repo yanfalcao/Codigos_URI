@@ -1,9 +1,9 @@
-/*
-	Leia 3 valores reais (A, B e C) e verifique se eles formam ou n„o um tri‚ngulo. Em caso positivo, calcule o perÌmetro do tri‚ngulo e apresente a mensagem:
+/*1043
+	Leia 3 valores reais (A, B e C) e verifique se eles formam ou n√£o um tri√¢ngulo. Em caso positivo, calcule o per√≠metro do tri√¢ngulo e apresente a mensagem:
 
 	Perimetro = XX.X
 
-	Em caso negativo, calcule a ·rea do trapÈzio que tem A e B como base e C como altura, mostrando a mensagem
+	Em caso negativo, calcule a √°rea do trap√©zio que tem A e B como base e C como altura, mostrando a mensagem
 
 	Area = XX.X
 */
