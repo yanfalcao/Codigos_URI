@@ -1,7 +1,7 @@
 /*QUESTAO
-	Calcule o consumo mÈdio de um automÛvel 
-	sendo fornecidos a dist‚ncia total percorrida (em Km)
-	e o total de combustÌvel gasto (em litros).
+	Calcule o consumo m√©dio de um autom√≥vel 
+	sendo fornecidos a dist√¢ncia total percorrida (em Km)
+	e o total de combust√≠vel gasto (em litros).
 */
 
 #include<stdio.h>
