@@ -1,6 +1,6 @@
-/*
+/*1067
 	Leia um valor inteiro X (1 <= X <= 1000). 
-	Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
+	Em seguida mostre os Ã­mpares de 1 atÃ© X, um valor por linha, inclusive o X, se for o caso.
 */
 #include<stdio.h>
 
