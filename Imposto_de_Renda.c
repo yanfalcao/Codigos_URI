@@ -1,4 +1,4 @@
-/*
+/*1051
      Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. 
       Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
 
